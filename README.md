@@ -1,4 +1,4 @@
-# AES 1920 bits Encryption Cipher
+# AES 1920 bits Encryption Cipher source code in C.
 Advanced Encryption Standard with 1920-bit keys.
 
 AES256 uses 256-bit keys. However, the internal keys are much larger.
